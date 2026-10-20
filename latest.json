@@ -1,0 +1,10 @@
+{
+ "format": 1,
+ "version": "2026.10.20",
+ "tag": "v2026.10.20",
+ "manifest": "manifest.json",
+ "manifestSha256": "8f62a9d71e96d08811752a623e1d6665",
+ "tiles": 4724,
+ "totalBytes": 122461268,
+ "chain": []
+}
