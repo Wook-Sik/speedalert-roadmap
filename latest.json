@@ -1,10 +1,18 @@
 {
  "format": 1,
- "version": "2026.10.20",
- "tag": "v2026.10.20",
+ "version": "2026.10.23",
+ "tag": "v2026.10.23",
  "manifest": "manifest.json",
- "manifestSha256": "8f62a9d71e96d08811752a623e1d6665",
- "tiles": 4724,
- "totalBytes": 122461268,
- "chain": []
+ "manifestSha256": "e7bbf65ab91924828bdb0355c7f7fd5b",
+ "tiles": 4726,
+ "totalBytes": 124927175,
+ "chain": [
+  {
+   "from": "2026.10.20",
+   "to": "2026.10.23",
+   "patchBytes": 4633433,
+   "fullBytes": 100388836,
+   "patchDir": "p/2026.10.20__2026.10.23"
+  }
+ ]
 }
